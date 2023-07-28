@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\bin\Debug\Section8-recursion.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\bin\Debug\Section8-recursion.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\bin\Debug\Section8-recursion.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\obj\Debug\Section8-recursion.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\obj\Debug\Section8-recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\obj\Debug\Section8-recursion.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\obj\Debug\Section8-recursion.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-recursion\Section8-recursion\obj\Debug\Section8-recursion.pdb
